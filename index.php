@@ -8,8 +8,7 @@
 <body>
     <h1>Francisco Alabarce Ortiz</h1>
     <h2>Mi página web</h2>
-    <h2>Mi página web</h2>
-    <h2>Mi página web</h2>
+
     
     <?php
         date_default_timezone_set('Europe/Madrid');
