@@ -6,7 +6,7 @@
     <title>Prueba</title>
 </head>
 <body>
-    <h1>Borja Molina Zea</h1>
+    <h1>Francisco Alabarce Ortiz</h1>
     <h2>Mi página web</h2>
     
     <?php
